@@ -77,7 +77,7 @@ streamlit run app.py
 
 4. Setelah berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol **Predict** untuk mengetahui status siswa tersebut.
 
-Sedangkan untuk menjalankannya melalui link, bisa diakses dengan klik link berikut: 
+Sedangkan untuk menjalankannya melalui link, bisa diakses dengan klik link berikut: [Jaya Jaya Institute App](https://proyek-akhir-bpds-dicoding-normanfebrio.streamlit.app/)
 
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
