@@ -58,12 +58,12 @@ with col1:
     raw_data["Curricular_units_1st_sem_enrolled"] = [curr_1st_enrolled]
 
 with col2:
-    curr_1st_eval = int(st.number_input(label="Evaluations (0 - 50)", min_value=0, max_value=50, value=35, key="1st sem evaluations"))
-    raw_data["Curricular_units_1st_sem_evaluations"] = [curr_1st_eval]
-    
-with col3:
     curr_1st_approved = int(st.number_input(label="Approved (0 - 30)", min_value=0, max_value=30, value=20, key="1st sem approved"))
     raw_data["Curricular_units_1st_sem_approved"] = [curr_1st_approved]
+
+with col3:
+    curr_1st_eval = int(st.number_input(label="Evaluations (0 - 50)", min_value=0, max_value=50, value=35, key="1st sem evaluations"))
+    raw_data["Curricular_units_1st_sem_evaluations"] = [curr_1st_eval]
     
 with col4:
     curr_1st_grade = float(st.number_input(label="Grade (0 - 20)", min_value=0.0, max_value=20.0, value=17.0, key="1st sem grade"))
@@ -79,12 +79,12 @@ with col1:
     raw_data["Curricular_units_2nd_sem_enrolled"] = [curr_2nd_enrolled]
     
 with col2:
-    curr_2nd_eval = int(st.number_input(label="Evaluations (0 - 50)", min_value=0, max_value=50, value=35, key="2nd sem evaluations"))
-    raw_data["Curricular_units_2nd_sem_evaluations"] = [curr_2nd_eval]
-    
-with col3:
     curr_2nd_approved = int(st.number_input(label="Approved (0 - 30)", min_value=0, max_value=30, value=20, key="2nd sem approved"))
     raw_data["Curricular_units_2nd_sem_approved"] = [curr_2nd_approved]
+
+with col3:
+    curr_2nd_eval = int(st.number_input(label="Evaluations (0 - 50)", min_value=0, max_value=50, value=35, key="2nd sem evaluations"))
+    raw_data["Curricular_units_2nd_sem_evaluations"] = [curr_2nd_eval]
     
 with col4:
     curr_2nd_grade = float(st.number_input(label="Grade (0 - 20)", min_value=0.0, max_value=20.0, value=17.0, key="2nd sem grade"))
