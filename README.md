@@ -72,9 +72,11 @@ jupyter-notebook .
 Terdapat dua bisnis dasbor yang dibuat pada proyek ini. Kedua dasbor tersebut memiliki fungsinya masing-masing. Berikut penjelasan dari tiap dasbornya:
 
 1. Student's Personal Information
+   
    Dasbor ini terdiri dari beberapa ringkasan informasi diri dari siswa. Informasi diri tersebut terdiri dari berapa banyak jumlah siswa yang ada pada data ini, persentase siswa yang merupakan siswa internasional (di luar Negara Portugis), persentase pemegang beasiswa, persentase siswa yang merupakan pengungsi, dan masih banyak lagi. Dasbor ini dilengkapi fitur _interactive filtering_. Dengan fitur tersebut, pengguna dapat melakukan penyaringan data dengan cara mengklik pada grafik yang tersedia.
 
 2. Analysis
+   
    Dasbor ini terdiri dari informasi biaya UKT apakah sudah yang terkini, persentase pemegang beasiswa dan merupakan pengungsi, nilai pada pendidikan sebelumnya, nilai yang diperlukan ketika masuk perguruan tinggi, dan informasi SKS. Digunakan untuk mengetahui bagaimana kriteria siswa yang lulus, _dropout_, ataupun masih terdaftar.
 
 Dasbor tersebut telah dipublikasi di Tableau Public dan bisa diakses di link berikut: [Dashboard](https://public.tableau.com/views/DashboardProyekAkhirBPDS/StudentsPersonalInformationSummary?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) 
