@@ -6,9 +6,11 @@ Jumlah _dropout_ yang tinggi ini tentunya menjadi salah satu masalah yang besar 
 
 ### Permasalahan Bisnis
 1. Tingginya jumlah siswa yang _dropout_
+
    Jumlah siswa yang _dropout_ perlu dikurangi untuk menjaga reputasi dan daya tarik institusi. Jumlah _dropout_ yang tinggi dapat mencerminkan ketidakpuasan siswa terhadap kualitas pendidikan atau dukungan yang diberikan. Tingginya angka dropout dapat mengakibatkan berkurangnya jumlah pendaftar baru, menurunnya kepercayaan orang tua dan calon siswa, serta berpotensi merusak reputasi institusi di mata masyarakat dan pihak pemangku kepentingan lainnya.
 
 2. Tidak adanya perangkat atau sistem yang dapat memonitor situasi dan kondisi siswanya
+
    Tanpa sistem pemantauan yang efektif, institusi sulit untuk mengidentifikasi siswa yang berpotensi dropout secara tepat waktu dan memberikan intervensi yang diperlukan. Hal ini membuat upaya pencegahan dropout menjadi kurang efisien dan tidak terarah. Tanpa sistem monitoring, institusi tidak dapat secara proaktif menangani masalah siswa yang mengalami kesulitan akademik atau personal yang dapat menyebabkan dropout. Ini dapat mengakibatkan peningkatan jumlah dropout, yang pada gilirannya akan merugikan institusi dalam jangka panjang, baik dari segi finansial maupun reputasi.
 
 ### Cakupan Proyek
