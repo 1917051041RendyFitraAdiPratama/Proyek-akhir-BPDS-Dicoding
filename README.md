@@ -32,7 +32,7 @@ Sumber data: [Jaya Jaya Institut](https://github.com/dicodingacademy/dicoding_da
 
 Setup environment:
 
-1. Unduh _file_ **submission.zip** dan dataset di link di atas kemudian ekstrak pada sebuah direktori
+1. Unduh _file_ zip dari repositori ini  kemudian ekstrak pada sebuah direktori
 2. Buka dan jalankan **Anaconda Prompt**
 3. pindah ke direktori tempat menyimpan _files_ yang telah diekstrak tadi
  
