@@ -37,7 +37,7 @@ Setup environment:
 3. pindah ke direktori tempat menyimpan _files_ yang telah diekstrak tadi
  
 ```
-cd (nama direktori/folder yang memiliki file-file yang telah diunduh)
+cd path/to/destination/directory
 ```
  
 4. Membuat environment baru dengan nama sesuai keinginan
