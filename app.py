@@ -2,13 +2,8 @@ import streamlit as st
 from prediction import *
 
 raw_data = pd.DataFrame()
-col1, col2 = st.columns([1,9])
 
-with col1:
-    st.write("")
-
-with col2:
-    st.title(":school: Jaya Jaya Institute Dropout Prediction :school:")
+st.title(":school: Jaya Jaya Institute Dropout Prediction :school:")
 
 # Personal Information section
 st.header("Personal Information", divider="rainbow")
